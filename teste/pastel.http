@@ -1,0 +1,10 @@
+POST http://127.0.0.1:3000/pastel
+Content-Type: application/json
+
+{
+    "id": 1,
+    "nome": "Frango com Catupiry",
+    "valor": 16.80,
+    "tamanho": "Medio",
+    "viagem": false
+}
